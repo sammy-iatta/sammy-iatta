@@ -43,7 +43,7 @@ Apasionat de Star Trek, Star Wars, el Japó i les series i pel·licules de quals
 - Bloc personal, https://www.nekofan.com
 - BlueSky, https://bsky.app/profile/nekofan.bsky.social
 - X (aka Twitter), https://twitter.com/iatta
-- Facebook, https://www.facebook.com/NekoFan-1489843997917436/
+- <img src="https://raw.githubusercontent.com/sammy-iatta/sammy-iatta/main/imatges/icona-facebook.svg" width="16" height="16"/> Facebook, https://www.facebook.com/NekoFanBCN/
 - Instagram, https://www.instagram.com/raisa_heika/
 - Youtube, https://www.youtube.com/user/SammyandRex
 
