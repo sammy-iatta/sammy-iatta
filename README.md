@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 <h1 align="center">Hola, soc en sammy-iatta👋</h1>
 <h3 align="left">Bon dia/tarda/nit a tothom!!!</h3>
 <p align="justify">
-Soc desenvolupador des de ja fa molts anys (vaig començar quan el MS-DOS anava amb bolquers) i aquí trobareu el meu repositori personal, on deixaré alguns projectes propis i personals, però també algunes de les coses que he desenvolupat o he participat a la feina.
+Soc desenvolupador des de ja fa molts anys (vaig començar quan el MS-DOS anava amb bolquers) i aquí trobareu el meu repositori personal, on deixaré alguns projectes propis i personals, però també algunes de les coses que he desenvolupat o he participat a la feina (i que puc posar en obert).
 
-Actualment treballant a l'Administració Pública, faig mapes a mida (o *"cromos de colors"* com dic jo) i visors interactius on poder veure dades de qualsevol tipus siutades sobre el territori.
+Actualment treballant a l'Administració Pública, faig mapes a mida (o *"cromos de colors"* com dic jo) i visors interactius on poder veure dades de qualsevol tipus situades sobre el territori.
 
 Algunes de les eines i llenguatges amb els que treballo són:
 
@@ -40,7 +40,7 @@ Pots contactar amb mi a través del meu correu sammy.iatta@gmail.com
 
 ### I algunes coses sobre mi
 <p align="justify">
-Apasionat de Star Trek, Star Wars, el Japó i les series i pel·licules de qualsevol tipus, podeu trobar-me a diferents xarxes socials i al meu bloc personal, on escric sobre temes varis, des de pel·licules i series fins a una mica de programació. 
+Apassionat de Star Trek, Star Wars, el Japó i les series i pel·lícules de qualsevol tipus, podeu trobar-me a diferents xarxes socials i al meu bloc personal, on escric sobre temes varis, des de pels i series fins a una mica de programació. 
 
 Vols saber-ne més? :point_down:
 </p>
