@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <p align="justify">
 Soc desenvolupador des de ja fa molts anys (vaig començar quan el MS-DOS anava amb bolquers) i aquí trobareu el meu repositori personal, on deixaré alguns projectes propis i personals, però també algunes de les coses que he desenvolupat o he participat a la feina.
 
-Actualment treballant a l'Administració Pública, faig mapes a mida (o _"cromos de colors"_ com dic jo) i visors interactius on visualitzar dades sobre el territori.
+Actualment treballant a l'Administració Pública, faig mapes a mida (o *"cromos de colors"* com dic jo) i visors interactius on visualitzar dades sobre el territori.
 
 Algunes de les eines i llenguatges amb els que treballo són:
 
@@ -43,8 +43,11 @@ Apasionat de Star Trek, Star Wars, el Japó i les series i pel·licules de quals
 - <img src="https://raw.githubusercontent.com/sammy-iatta/sammy-iatta/main/imatges/icona-blogger.svg" width="16" height="16"/> https://www.nekofan.com
 - <img src="https://raw.githubusercontent.com/sammy-iatta/sammy-iatta/main/imatges/icona-bluesky.svg" width="16" height="16"/> https://bsky.app/profile/nekofan.bsky.social
 - <img src="https://raw.githubusercontent.com/sammy-iatta/sammy-iatta/main/imatges/icona-x-twitter.svg" width="16" height="16"/> https://twitter.com/iatta
-- <img src="https://raw.githubusercontent.com/sammy-iatta/sammy-iatta/main/imatges/icona-facebook.svg" width="16" height="16"/> https://www.facebook.com/NekoFanBCN/
 - <img src="https://raw.githubusercontent.com/sammy-iatta/sammy-iatta/main/imatges/icona-instagram.svg" width="16" height="16"/> https://www.instagram.com/raisa_heika/
-- <img src="https://raw.githubusercontent.com/sammy-iatta/sammy-iatta/main/imatges/icona-youtube.svg" width="16" height="16"/> https://www.youtube.com/user/SammyandRex
+
+[<img src="https://raw.githubusercontent.com/sammy-iatta/sammy-iatta/main/imatges/icona-facebook.svg" width="32" height="32"/>](https://www.facebook.com/NekoFanBCN/)&nbsp;&nbsp;
+[<img src="https://raw.githubusercontent.com/sammy-iatta/sammy-iatta/main/imatges/icona-youtube.svg" width="32" height="32"/> ](https://www.youtube.com/user/SammyandRex)
 
 ### Llarga i Prospera Vida
+<img width="400" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sammy-iatta&show_icons=true&locale=es&layout=compact" alt="sammy-iatta" />
+<img align="right" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=sammy-iatta&locale=ca" alt="sammy-iatta" />
