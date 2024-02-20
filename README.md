@@ -16,11 +16,26 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hola, soc en sammy-iatta👋</h1>
-<h3 align="center">Bon dia/tarda/nit a tothom!!!</h3>
+<h3 align="left">Bon dia/tarda/nit a tothom!!!</h3>
 <p align="justify">
 Soc desenvolupador des de ja fa molts anys (vaig començar quan el MS-DOS anava amb bolquers) i aquí trobareu el meu repositori personal, on deixaré alguns projectes propis i personals, però també algunes de les coses que he desenvolupat o he participat a la feina.
+
+Actualment treballant a l'Administració Pública, faig mapes a mida (o _"cromos de colors"_ com dic jo) i visors interactius on visualitzar dades sobre el territori.
+
+Algunes de les eines i llenguatges amb els que treballo són:
+
+- ESRI ArcGIS
+- QGIS
+- Python
+- Javacript
+- .NET
+- PostgreSQL / PostGIS
+- ORACLE
+
+Pots contactar amb mi a través del meu correu sammy.iatta@gmail.com
 </p>
 
+### I algunes coses sobre mi
 <p align="justify">
 Apasionat de Star Trek, Star Wars, el Japó i les series i pel·licules de qualsevol tipus, podeu trobar-me a diferents xarxes socials i al meu bloc personal, on escric sobre temes varis, des de pel·licules i series fins a una mica de programació. Els enllaços són:
 </p>
