@@ -27,11 +27,13 @@ Algunes de les eines i llenguatges amb els que treballo són:
 - ESRI ArcGIS
 - QGIS
 - Python
-- Javacript
+- Javascript
 - HTML / CSS
 - .NET
 - PostgreSQL / PostGIS
 - ORACLE
+
+Ep!! Que encara crec que recordaria fer alguna cosa en *FORTRAN* o *COBOL* :sweat_smile:
 
 Pots contactar amb mi a través del meu correu sammy.iatta@gmail.com
 </p>
