@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hola, soc en sammy-iatta👋</h1>
+<h1 style="text-align:center;">Hola, soc en sammy-iatta👋</h1>
 <h3 align="center">Bon dia/tarda/nit a tothom!!!</h3>
 
 Soc desenvolupador des de ja fa molts anys (vaig començar quan el MS-DOS anava amb bolquers) i aquí trobareu el meu repositori personal, on deixaré alguns projectes propis i personals, però també algunes de les coses que he desenvolupat o he participat a la feina.
