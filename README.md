@@ -40,11 +40,11 @@ Pots contactar amb mi a través del meu correu sammy.iatta@gmail.com
 Apasionat de Star Trek, Star Wars, el Japó i les series i pel·licules de qualsevol tipus, podeu trobar-me a diferents xarxes socials i al meu bloc personal, on escric sobre temes varis, des de pel·licules i series fins a una mica de programació. Els enllaços són:
 </p>
 
-- Bloc personal, https://www.nekofan.com
-- BlueSky, https://bsky.app/profile/nekofan.bsky.social
-- X (aka Twitter), https://twitter.com/iatta
-- <img src="https://raw.githubusercontent.com/sammy-iatta/sammy-iatta/main/imatges/icona-facebook.svg" width="16" height="16"/> Facebook, https://www.facebook.com/NekoFanBCN/
-- Instagram, https://www.instagram.com/raisa_heika/
-- Youtube, https://www.youtube.com/user/SammyandRex
+- <img src="https://raw.githubusercontent.com/sammy-iatta/sammy-iatta/main/imatges/icona-blogger.svg" width="16" height="16"/> https://www.nekofan.com
+- <img src="https://raw.githubusercontent.com/sammy-iatta/sammy-iatta/main/imatges/icona-bluesky.svg" width="16" height="16"/> https://bsky.app/profile/nekofan.bsky.social
+- <img src="https://raw.githubusercontent.com/sammy-iatta/sammy-iatta/main/imatges/icona-x-twitter.svg" width="16" height="16"/> https://twitter.com/iatta
+- <img src="https://raw.githubusercontent.com/sammy-iatta/sammy-iatta/main/imatges/icona-facebook.svg" width="16" height="16"/> https://www.facebook.com/NekoFanBCN/
+- <img src="https://raw.githubusercontent.com/sammy-iatta/sammy-iatta/main/imatges/icona-instagram.svg" width="16" height="16"/> https://www.instagram.com/raisa_heika/
+- <img src="https://raw.githubusercontent.com/sammy-iatta/sammy-iatta/main/imatges/icona-youtube.svg" width="16" height="16"/> https://www.youtube.com/user/SammyandRex
 
 ### Llarga i Prospera Vida
