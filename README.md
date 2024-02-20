@@ -28,6 +28,7 @@ Algunes de les eines i llenguatges amb els que treballo són:
 - QGIS
 - Python
 - Javacript
+- HTML / CSS
 - .NET
 - PostgreSQL / PostGIS
 - ORACLE
