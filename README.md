@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <p align="justify">
 Soc desenvolupador des de ja fa molts anys (vaig començar quan el MS-DOS anava amb bolquers) i aquí trobareu el meu repositori personal, on deixaré alguns projectes propis i personals, però també algunes de les coses que he desenvolupat o he participat a la feina.
 
-Actualment treballant a l'Administració Pública, faig mapes a mida (o *"cromos de colors"* com dic jo) i visors interactius on visualitzar dades sobre el territori.
+Actualment treballant a l'Administració Pública, faig mapes a mida (o *"cromos de colors"* com dic jo) i visors interactius on poder veure dades de qualsevol tipus sobre el territori.
 
 Algunes de les eines i llenguatges amb els que treballo són:
 
