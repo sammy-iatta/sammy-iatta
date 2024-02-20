@@ -37,17 +37,19 @@ Pots contactar amb mi a través del meu correu sammy.iatta@gmail.com
 
 ### I algunes coses sobre mi
 <p align="justify">
-Apasionat de Star Trek, Star Wars, el Japó i les series i pel·licules de qualsevol tipus, podeu trobar-me a diferents xarxes socials i al meu bloc personal, on escric sobre temes varis, des de pel·licules i series fins a una mica de programació. Els enllaços són:
+Apasionat de Star Trek, Star Wars, el Japó i les series i pel·licules de qualsevol tipus, podeu trobar-me a diferents xarxes socials i al meu bloc personal, on escric sobre temes varis, des de pel·licules i series fins a una mica de programació. 
+
+Vols saber-ne més? :point_down:
 </p>
 
-- <img src="https://raw.githubusercontent.com/sammy-iatta/sammy-iatta/main/imatges/icona-blogger.svg" width="16" height="16"/> https://www.nekofan.com
-- <img src="https://raw.githubusercontent.com/sammy-iatta/sammy-iatta/main/imatges/icona-bluesky.svg" width="16" height="16"/> https://bsky.app/profile/nekofan.bsky.social
-- <img src="https://raw.githubusercontent.com/sammy-iatta/sammy-iatta/main/imatges/icona-x-twitter.svg" width="16" height="16"/> https://twitter.com/iatta
-- <img src="https://raw.githubusercontent.com/sammy-iatta/sammy-iatta/main/imatges/icona-instagram.svg" width="16" height="16"/> https://www.instagram.com/raisa_heika/
+- <img alt="Blogger" src="https://raw.githubusercontent.com/sammy-iatta/sammy-iatta/main/imatges/icona-blogger.svg" width="16" height="16"/> https://www.nekofan.com
+- <img alt="BlueSky" src="https://raw.githubusercontent.com/sammy-iatta/sammy-iatta/main/imatges/icona-bluesky.svg" width="16" height="16"/> https://bsky.app/profile/nekofan.bsky.social
+- <img alt="X / Twitter" src="https://raw.githubusercontent.com/sammy-iatta/sammy-iatta/main/imatges/icona-x-twitter.svg" width="16" height="16"/> https://twitter.com/iatta
+- <img alt="Instagram" src="https://raw.githubusercontent.com/sammy-iatta/sammy-iatta/main/imatges/icona-instagram.svg" width="16" height="16"/> https://www.instagram.com/raisa_heika/
 
-[<img src="https://raw.githubusercontent.com/sammy-iatta/sammy-iatta/main/imatges/icona-facebook.svg" width="32" height="32"/>](https://www.facebook.com/NekoFanBCN/)&nbsp;&nbsp;
-[<img src="https://raw.githubusercontent.com/sammy-iatta/sammy-iatta/main/imatges/icona-youtube.svg" width="32" height="32"/> ](https://www.youtube.com/user/SammyandRex)
+[<img alt="Facebook" src="https://raw.githubusercontent.com/sammy-iatta/sammy-iatta/main/imatges/icona-facebook.svg" width="32" height="32"/>](https://www.facebook.com/NekoFanBCN/)&nbsp;&nbsp;
+[<img alt="Youtube" src="https://raw.githubusercontent.com/sammy-iatta/sammy-iatta/main/imatges/icona-youtube.svg" width="32" height="32"/> ](https://www.youtube.com/user/SammyandRex)
 
-### Llarga i Prospera Vida
+### Llarga Vida i Prosperitat 🖖
 <img width="400" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sammy-iatta&show_icons=true&locale=es&layout=compact" alt="sammy-iatta" />
 <img align="right" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=sammy-iatta&locale=ca" alt="sammy-iatta" />
