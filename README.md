@@ -47,11 +47,11 @@ Vols saber-ne més? :point_down:
 
 - <img title="X / Twitter" src="https://raw.githubusercontent.com/sammy-iatta/sammy-iatta/main/imatges/icona-x-twitter.svg" width="16" height="16"/> https://twitter.com/iatta
 
-[<img title="Blogger" src="https://raw.githubusercontent.com/sammy-iatta/sammy-iatta/main/imatges/icona-blogger.svg" width="32" height="32"/>](https://www.nekofan.com)&nbsp;&nbsp;
-[<img title="BlueSky" src="https://raw.githubusercontent.com/sammy-iatta/sammy-iatta/main/imatges/icona-bluesky.svg" width="32" height="32"/>](https://bsky.app/profile/nekofan.bsky.social)&nbsp;&nbsp;
-[<img title="Instagram" src="https://raw.githubusercontent.com/sammy-iatta/sammy-iatta/main/imatges/icona-instagram.svg" width="32" height="32"/>](https://www.instagram.com/raisa_heika/)&nbsp;&nbsp;
-[<img title="Facebook" src="https://raw.githubusercontent.com/sammy-iatta/sammy-iatta/main/imatges/icona-facebook.svg" width="32" height="32"/>](https://www.facebook.com/NekoFanBCN/)&nbsp;&nbsp; 
-[<img title="Youtube" src="https://raw.githubusercontent.com/sammy-iatta/sammy-iatta/main/imatges/icona-youtube.svg" width="32" height="32"/> ](https://www.youtube.com/user/SammyandRex) 
+[<img title="Blogger" src="https://raw.githubusercontent.com/sammy-iatta/sammy-iatta/main/imatges/icona-blogger.svg" width="64" height="64"/>](https://www.nekofan.com)&nbsp;&nbsp;
+[<img title="BlueSky" src="https://raw.githubusercontent.com/sammy-iatta/sammy-iatta/main/imatges/icona-bluesky.svg" width="64" height="64"/>](https://bsky.app/profile/nekofan.bsky.social)&nbsp;&nbsp;
+[<img title="Instagram" src="https://raw.githubusercontent.com/sammy-iatta/sammy-iatta/main/imatges/icona-instagram.svg" width="64" height="64"/>](https://www.instagram.com/raisa_heika/)&nbsp;&nbsp;
+[<img title="Facebook" src="https://raw.githubusercontent.com/sammy-iatta/sammy-iatta/main/imatges/icona-facebook.svg" width="64" height="64"/>](https://www.facebook.com/NekoFanBCN/)&nbsp;&nbsp; 
+[<img title="Youtube" src="https://raw.githubusercontent.com/sammy-iatta/sammy-iatta/main/imatges/icona-youtube.svg" width="64" height="64"/> ](https://www.youtube.com/user/SammyandRex) 
 
 ### Llarga Vida i Prosperitat 🖖
 <img width="400" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sammy-iatta&show_icons=true&locale=es&layout=compact" title="sammy-iatta" />
