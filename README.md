@@ -55,4 +55,4 @@ Vols saber-ne més? :point_down:
 
 ### Llarga Vida i Prosperitat 🖖
 <img width="350" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sammy-iatta&show_icons=true&locale=es&layout=compact" title="sammy-iatta" />
-<img align="right" width="350" src="https://github-readme-streak-stats.herokuapp.com/?user=sammy-iatta&locale=ca" title="sammy-iatta" />
+<img align="right" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=sammy-iatta&locale=ca" title="sammy-iatta" />
