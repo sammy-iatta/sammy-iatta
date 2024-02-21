@@ -54,5 +54,5 @@ Vols saber-ne més? :point_down:
 [<img title="Youtube" src="https://raw.githubusercontent.com/sammy-iatta/sammy-iatta/main/imatges/icona-youtube.svg" width="48" height="48"/> ](https://www.youtube.com/user/SammyandRex) 
 
 ### Llarga Vida i Prosperitat 🖖
-<img width="300" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sammy-iatta&show_icons=true&locale=es&layout=compact" title="sammy-iatta" />
-<img align="right" width="300" src="https://github-readme-streak-stats.herokuapp.com/?user=sammy-iatta&locale=ca" title="sammy-iatta" />
+<img width="350" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sammy-iatta&show_icons=true&locale=es&layout=compact" title="sammy-iatta" />
+<img align="right" width="350" src="https://github-readme-streak-stats.herokuapp.com/?user=sammy-iatta&locale=ca" title="sammy-iatta" />
