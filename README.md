@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<style>
+ a {text-decoration:none;}
+ a.img {width: 48px; height: 48px; max-width: 100%;}
+</style>
 <h1 align="center">Hola, soc en sammy-iatta👋</h1>
 <h3 align="left">Bon dia/tarda/nit a tothom!!!</h3>
 <p align="justify">
@@ -47,11 +51,21 @@ Vols saber-ne més? :point_down:
 
 - <img title="X / Twitter" src="https://raw.githubusercontent.com/sammy-iatta/sammy-iatta/main/imatges/icona-x-twitter.svg" width="16" height="16"/> https://twitter.com/iatta
 
-[<img title="Blogger" src="https://raw.githubusercontent.com/sammy-iatta/sammy-iatta/main/imatges/icona-blogger.svg" width="48" height="48"/>](https://www.nekofan.com)&nbsp;&nbsp;
-[<img title="BlueSky" src="https://raw.githubusercontent.com/sammy-iatta/sammy-iatta/main/imatges/icona-bluesky.svg" width="48" height="48"/>](https://bsky.app/profile/nekofan.bsky.social)&nbsp;&nbsp;
-[<img title="Instagram" src="https://raw.githubusercontent.com/sammy-iatta/sammy-iatta/main/imatges/icona-instagram.svg" width="48" height="48"/>](https://www.instagram.com/raisa_heika/)&nbsp;&nbsp;
-[<img title="Facebook" src="https://raw.githubusercontent.com/sammy-iatta/sammy-iatta/main/imatges/icona-facebook.svg" width="48" height="48"/>](https://www.facebook.com/NekoFanBCN/)&nbsp;&nbsp; 
-[<img title="Youtube" src="https://raw.githubusercontent.com/sammy-iatta/sammy-iatta/main/imatges/icona-youtube.svg" width="48" height="48"/> ](https://www.youtube.com/user/SammyandRex) 
+<a href="https://www.nekofan.com" title="" target="_blank" rel="nofollow" style="text-decoration:none; padding-right:10px;">
+<img title="Blogger" src="https://raw.githubusercontent.com/sammy-iatta/sammy-iatta/main/imatges/icona-blogger.svg" width="48" height="48"/>
+</a>
+<a href="https://bsky.app/profile/nekofan.bsky.social" title="BlueSky" target="_blank" rel="nofollow" class="icon-profile-image">
+<img title="BlueSky" src="https://raw.githubusercontent.com/sammy-iatta/sammy-iatta/main/imatges/icona-bluesky.svg" width="48" height="48"/>
+</a>
+<a href="https://www.instagram.com/raisa_heika/" title="Instagram" target="_blank" rel="nofollow" class="icon-profile-image">
+<img title="Instagram" src="https://raw.githubusercontent.com/sammy-iatta/sammy-iatta/main/imatges/icona-instagram.svg" width="48" height="48"/>
+</a>
+<a href="https://www.facebook.com/NekoFanBCN/" title="Facebook" target="_blank" rel="nofollow" class="icon-profile-image">
+<img title="Facebook" src="https://raw.githubusercontent.com/sammy-iatta/sammy-iatta/main/imatges/icona-facebook.svg" width="48" height="48"/>
+</a>
+<a href="https://www.youtube.com/user/SammyandRex" title="Youtube" target="_blank" rel="nofollow" class="icon-profile-image">
+<img title="Youtube" src="https://raw.githubusercontent.com/sammy-iatta/sammy-iatta/main/imatges/icona-youtube.svg" width="48" height="48"/>
+</a>
 
 ### Llarga Vida i Prosperitat 🖖
 <img width="350" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sammy-iatta&show_icons=true&locale=es&layout=compact" title="sammy-iatta" />
