@@ -51,8 +51,8 @@ Apassionat de Star Trek, Star Wars, el Japó i les series i pel·lícules de qua
 ---
 <div align="center">
 
-[<img title="X / Twitter" src="https://raw.githubusercontent.com/sammy-iatta/sammy-iatta/main/imatges/icona-x-twitter.svg" width="16" height="16"/>](https://twitter.com/iatta)
 [<img title="Blogger" src="imatges/icona-blogger.svg" width="48" height="48"/>](https://www.nekofan.com)
+[<img title="X / Twitter" src="imatges/icona-x-twitter.svg" width="48" height="48"/>](https://twitter.com/iatta)
 [<img title="BlueSky" src="imatges/icona-bluesky.svg" width="48" height="48"/>](https://bsky.app/profile/nekofan.bsky.social)
 [<img title="Instagram" src="imatges/icona-instagram.svg" width="48" height="48"/>](https://www.instagram.com/raisa_heika/)
 [<img title="Facebook" src="imatges/icona-facebook.svg" width="48" height="48"/>](https://www.facebook.com/NekoFanBCN/)
