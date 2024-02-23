@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 <p align="justify">
 Soc desenvolupador des de ja fa molts anys (vaig començar quan el MS-DOS anava amb bolquers) i aquí trobareu el meu repositori personal, on deixaré alguns projectes propis i personals, però també algunes de les coses que he desenvolupat o he participat a la feina (i que puc posar en obert).
 
+Prefereixo que em nomeneu per Sammy o simplement per Francesc, que és el meu nom real.
+
 Actualment treballant a l'Administració Pública, faig mapes a mida (o *"cromos de colors"* com dic jo) i visors interactius on poder veure dades de qualsevol tipus situades sobre el territori.
 
 Algunes de les eines i llenguatges amb els que treballo són:
@@ -43,27 +45,20 @@ Pots contactar amb mi a través del meu correu sammy.iatta@gmail.com
 <p align="justify">
 Apassionat de Star Trek, Star Wars, el Japó i les series i pel·lícules de qualsevol tipus, podeu trobar-me a diferents xarxes socials i al meu bloc personal, on escric sobre temes varis, des de pels i series fins a una mica de programació. 
 
-Vols saber-ne més? :point_down:
+### Llarga Vida i Prosperitat 🖖
 </p>
 
-- <img title="X / Twitter" src="https://raw.githubusercontent.com/sammy-iatta/sammy-iatta/main/imatges/icona-x-twitter.svg" width="16" height="16"/> https://twitter.com/iatta
+---
+<div align="center">
 
-<a href="https://www.nekofan.com" title="" target="_blank" rel="nofollow">
-<img title="Blogger" src="https://raw.githubusercontent.com/sammy-iatta/sammy-iatta/main/imatges/icona-blogger.svg" width="48" height="48"/>
-</a>
-<a href="https://bsky.app/profile/nekofan.bsky.social" title="BlueSky" target="_blank" rel="nofollow" class="icon-profile-image">
-<img title="BlueSky" src="https://raw.githubusercontent.com/sammy-iatta/sammy-iatta/main/imatges/icona-bluesky.svg" width="48" height="48"/>
-</a>
-<a href="https://www.instagram.com/raisa_heika/" title="Instagram" target="_blank" rel="nofollow" class="icon-profile-image">
-<img title="Instagram" src="https://raw.githubusercontent.com/sammy-iatta/sammy-iatta/main/imatges/icona-instagram.svg" width="48" height="48"/>
-</a>
-<a href="https://www.facebook.com/NekoFanBCN/" title="Facebook" target="_blank" rel="nofollow" class="icon-profile-image">
-<img title="Facebook" src="https://raw.githubusercontent.com/sammy-iatta/sammy-iatta/main/imatges/icona-facebook.svg" width="48" height="48"/>
-</a>
-<a href="https://www.youtube.com/user/SammyandRex" title="Youtube" target="_blank" rel="nofollow" class="icon-profile-image">
-<img title="Youtube" src="https://raw.githubusercontent.com/sammy-iatta/sammy-iatta/main/imatges/icona-youtube.svg" width="48" height="48"/>
-</a>
+[<img title="X / Twitter" src="https://raw.githubusercontent.com/sammy-iatta/sammy-iatta/main/imatges/icona-x-twitter.svg" width="16" height="16"/>](https://twitter.com/iatta)
+[<img title="Blogger" src="imatges/icona-blogger.svg" width="48" height="48"/>](https://www.nekofan.com)
+[<img title="BlueSky" src="imatges/icona-bluesky.svg" width="48" height="48"/>](https://bsky.app/profile/nekofan.bsky.social)
+[<img title="Instagram" src="imatges/icona-instagram.svg" width="48" height="48"/>](https://www.instagram.com/raisa_heika/)
+[<img title="Facebook" src="imatges/icona-facebook.svg" width="48" height="48"/>](https://www.facebook.com/NekoFanBCN/)
+[<img title="Youtube" src="imatges/icona-youtube.svg" width="48" height="48"/>](https://www.youtube.com/user/SammyandRex)
+</div>
 
-### Llarga Vida i Prosperitat 🖖
-<img width="350" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sammy-iatta&show_icons=true&locale=es&layout=compact" title="sammy-iatta" />
-<img align="right" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=sammy-iatta&locale=ca" title="sammy-iatta" />
+---
+<img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sammy-iatta&show_icons=true&locale=es&layout=compact" title="sammy-iatta" />
+<img align="right" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=sammy-iatta&locale=ca" title="sammy-iatta" />
