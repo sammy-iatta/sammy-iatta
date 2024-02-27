@@ -60,5 +60,6 @@ Apassionat de Star Trek, Star Wars, el Japó i les series i pel·lícules de qua
 </div>
 
 ---
-<img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sammy-iatta&show_icons=true&locale=es&layout=compact" title="sammy-iatta" />
-<img align="right" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=sammy-iatta&locale=ca" title="sammy-iatta" />
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sammy-iatta&show_icons=true&locale=es&layout=compact)](https://github.com/sammy-iatta)
+[![Top Stats](https://github-readme-streak-stats.herokuapp.com/?user=sammy-iatta&locale=ca)](https://github.com/sammy-iatta)
